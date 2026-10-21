@@ -9,8 +9,8 @@
           "layout": "0,0,6,2",
           "color": "msx-glass",
           "icon": "movie",
-          "label": "ESTRENOS EN COLOMBIA",
-          "text": "Consulta peliculas nuevas y donde verlas legalmente en Colombia. La disponibilidad puede cambiar.",
+          "label": "CONSULTAR ESTRENOS EN COLOMBIA",
+          "text": "Consulta estrenos y servicios legales disponibles en Colombia. Los estrenos comerciales suelen requerir la plataforma oficial; este boton abre una pagina externa.",
           "action": "link:window:https://www.justwatch.com/co"
         },
         {
@@ -39,6 +39,15 @@
           "label": "BUSCAR UNA PELICULA",
           "text": "Busca por titulo y comprueba si esta disponible en streaming, alquiler o compra.",
           "action": "link:window:https://www.justwatch.com/co"
+        },
+        {
+          "type": "button",
+          "layout": "3,4,6,2",
+          "color": "msx-glass",
+          "icon": "play-circle",
+          "label": "PELICULAS DIRECTAS EN MSX",
+          "text": "Abre un catalogo pequeno de videos de archivo para reproducir directamente dentro de MSX. No son estrenos comerciales actuales.",
+          "action": "menu:https://eratech3e.github.io/msx/data/CineDirecto.json"
         }
       ]
     }

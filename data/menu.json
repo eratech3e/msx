@@ -1,22 +1,24 @@
 {
-  "headline": "Mi Portal MSX",
-  "menu": [
-    {
-      "label": "Prueba",
-      "data": {
-        "type": "pages",
-        "pages": [
-          {
-            "items": [
-              {
-                "layout": "0,0,12,6",
-                "label": "Portal funcionando",
-                "action": "https://msx.benzac.de/info/"
-              }
-            ]
-          }
-        ]
-      }
-    }
-  ]
+“headline”: “Mi Portal MSX”,
+“menu”: [
+{
+“icon”: “movie”,
+“label”: “Mi portal”,
+“data”: {
+“type”: “pages”,
+“template”: {
+“type”: “separate”,
+“layout”: “0,0,2,4”,
+“icon”: “msx-white-soft:movie”,
+“color”: “msx-glass”
+},
+“items”: [
+{
+“title”: “Prueba de funcionamiento”,
+“action”: “link:https://msx.benzac.de/info/”
+}
+]
+}
+}
+]
 }

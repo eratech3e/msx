@@ -22,6 +22,10 @@
       "data": "https://eratech3e.github.io/msx/data/Peliculas.json"
     },
     {
+      "label": "PELICULAS ESTRENO",
+      "data": "https://eratech3e.github.io/msx/data/Estrenos.json"
+    },
+    {
       "label": "SERIES",
       "data": "https://msx.benzac.de/info/data/content_placeholder.json"
     }

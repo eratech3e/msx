@@ -1,6 +1,6 @@
 {
   "type": "pages",
-  "headline": "PELICULAS GRATIS Y ESTRENOS",
+  "headline": "CANALES DE CINE Y PELICULAS RECIENTES",
   "pages": [
     {
       "items": [
@@ -8,19 +8,19 @@
           "type": "button",
           "layout": "0,1,6,4",
           "color": "msx-glass",
-          "icon": "movie",
-          "label": "TEARS OF STEEL (2012)",
-          "text": "Cortometraje de ciencia ficcion de Blender Foundation. Video directo oficial; licencia Creative Commons Attribution 3.0.",
-          "action": "video:https://download.blender.org/demo/movies/ToS/tears_of_steel_720p.mov"
+          "icon": "play-circle",
+          "label": "PLUTO TV: PELICULAS",
+          "text": "Peliculas gratis bajo demanda. El catalogo cambia por pais; abre Pluto TV.",
+          "action": "link:window:https://pluto.tv/"
         },
         {
           "type": "button",
           "layout": "6,1,6,4",
           "color": "msx-glass",
-          "icon": "play-circle",
-          "label": "PLUTO TV GRATIS",
-          "text": "Catalogo gratuito con peliculas bajo demanda. Abre la plataforma; no es un enlace de video directo.",
-          "action": "link:window:https://pluto.tv/"
+          "icon": "live-tv",
+          "label": "PLUTO TV: CANALES EN VIVO",
+          "text": "Explora canales gratuitos que emiten peliculas y programas.",
+          "action": "link:window:https://pluto.tv/live-tv"
         }
       ]
     },
@@ -30,19 +30,41 @@
           "type": "button",
           "layout": "0,1,6,4",
           "color": "msx-glass",
-          "icon": "play-circle",
+          "icon": "movie",
           "label": "PLEX: PELICULAS GRATIS",
-          "text": "Peliculas gratuitas con licencia; abre la plataforma externa, no un archivo de video directo.",
+          "text": "Peliculas gratis con anuncios; incluye titulos de distintos generos y novedades de catalogo.",
           "action": "link:window:https://watch.plex.tv/es"
         },
         {
           "type": "button",
           "layout": "6,1,6,4",
           "color": "msx-glass",
-          "icon": "play-circle",
-          "label": "RTVCPLAY: CINE GRATIS",
-          "text": "Catalogo gratuito colombiano; abre la plataforma externa, no un archivo de video directo.",
+          "icon": "live-tv",
+          "label": "PLEX: TV EN VIVO",
+          "text": "Canales gratuitos en directo; disponibilidad segun region.",
+          "action": "link:window:https://www.plex.tv/es/live-tv/"
+        }
+      ]
+    },
+    {
+      "items": [
+        {
+          "type": "button",
+          "layout": "0,1,6,4",
+          "color": "msx-glass",
+          "icon": "movie",
+          "label": "RTVCPLAY: CINE COLOMBIANO",
+          "text": "Peliculas colombianas gratuitas. La reproduccion depende de la pagina y del navegador compatible.",
           "action": "link:window:https://rtvcplay.co/cine"
+        },
+        {
+          "type": "button",
+          "layout": "6,1,6,4",
+          "color": "msx-glass",
+          "icon": "search",
+          "label": "BUSCAR ESTRENOS EN COLOMBIA",
+          "text": "Consulta donde se puede ver legalmente cada pelicula y filtra por servicios disponibles.",
+          "action": "link:window:https://www.justwatch.com/co"
         }
       ]
     }

@@ -1,1 +1,14 @@
-
+{
+  "headline": "FORMULA 1",
+  "pages": [
+    {
+      "items": [
+        {
+          "layout": "0,0,12,6",
+          "headline": "FORMULA 1",
+          "text": "Bienvenido a la seccion de Formula 1. Aqui prepararemos enlaces a noticias y videos oficiales."
+        }
+      ]
+    }
+  ]
+}

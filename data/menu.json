@@ -1,4 +1,9 @@
 {
   "headline": "Mi Portal MSX",
-  "menu": []
+  "menu": [
+    {
+      "label": "Prueba",
+      "data": "https://msx.benzac.de/info/data/content_placeholder.json"
+    }
+  ]
 }

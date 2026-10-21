@@ -1,6 +1,6 @@
 {
   "type": "pages",
-  "headline": "CINE GRATIS Y ESTRENOS EN COLOMBIA",
+  "headline": "PELICULAS GRATIS Y ESTRENOS",
   "pages": [
     {
       "items": [
@@ -9,127 +9,39 @@
           "layout": "0,1,6,4",
           "color": "msx-glass",
           "icon": "movie",
-          "label": "MEET JOHN DOE (1941)",
-          "text": "Clasico de archivo en ingles; este video ya fue probado por ti y se reprodujo dentro de MSX.",
-          "action": "video:https://archive.org/download/meet_john_doe/meet_john_doe_512kb.mp4"
-        },
-        {
-          "type": "button",
-          "layout": "6,1,6,4",
-          "color": "msx-glass",
-          "icon": "movie",
-          "label": "POPEYE Y SINBAD (1936)",
-          "text": "Cortometraje animado clasico. Audio original; reproduce el archivo directamente si tu TV lo admite.",
-          "action": "video:https://archive.org/download/Popeye_meetsSinbadtheSailor/Popeye_meetsSinbadtheSailor_512kb.mp4"
-        }
-      ]
-    },
-    {
-      "items": [
-        {
-          "type": "button",
-          "layout": "0,1,6,4",
-          "color": "msx-glass",
-          "icon": "movie",
-          "label": "CHARLIE CHAPLIN: THE VAGABOND",
-          "text": "Comedia muda clasica de 1916; no depende de dialogos hablados.",
-          "action": "video:https://archive.org/download/CC_1916_07_10_TheVagabond/CC_1916_07_10_TheVagabond.mp4"
-        },
-        {
-          "type": "button",
-          "layout": "6,1,6,4",
-          "color": "msx-glass",
-          "icon": "movie",
-          "label": "CHARLIE CHAPLIN: THE PAWNSHOP",
-          "text": "Comedia muda clasica de 1916, en archivo de video directo.",
-          "action": "video:https://archive.org/download/CC_1916_10_02_ThePawnshop/CC_1916_10_02_ThePawnshop_512kb.mp4"
-        }
-      ]
-    },
-    {
-      "items": [
-        {
-          "type": "button",
-          "layout": "0,1,6,4",
-          "color": "msx-glass",
-          "icon": "movie",
-          "label": "CHARLIE CHAPLIN: THE RINK",
-          "text": "Comedia muda clasica de 1916, en archivo de video directo.",
-          "action": "video:https://archive.org/download/CC_1916_12_04_TheRink/CC_1916_12_04_TheRink_512kb.mp4"
-        },
-        {
-          "type": "button",
-          "layout": "6,1,6,4",
-          "color": "msx-glass",
-          "icon": "movie",
-          "label": "CHARLIE CHAPLIN: THE FLOORWALKER",
-          "text": "Comedia muda clasica de 1916, en archivo de video directo.",
-          "action": "video:https://archive.org/download/CC_1916_05_15_TheFloorwalker/CC_1916_05_15_TheFloorwalker_512kb.mp4"
-        }
-      ]
-    },
-    {
-      "items": [
-        {
-          "type": "button",
-          "layout": "0,1,6,4",
-          "color": "msx-glass",
-          "icon": "movie",
-          "label": "THE LOST WORLD (1925)",
-          "text": "Aventura y fantasia clasica; audio e intertitulos segun la copia del archivo.",
-          "action": "video:https://archive.org/download/lost_world/lost_world_512kb.mp4"
-        },
-        {
-          "type": "button",
-          "layout": "6,1,6,4",
-          "color": "msx-glass",
-          "icon": "movie",
-          "label": "MR. ROBINSON CRUSOE (1932)",
-          "text": "Aventura clasica en ingles; el idioma depende de la copia disponible.",
-          "action": "video:https://archive.org/download/mr_robinson_crusoe/video_512kb.mp4"
-        }
-      ]
-    },
-    {
-      "items": [
-        {
-          "type": "button",
-          "layout": "0,1,6,4",
-          "color": "msx-glass",
-          "icon": "movie",
-          "label": "THE THIRTEENTH CHAIR (1929)",
-          "text": "Misterio clasico en ingles; archivo de video directo.",
-          "action": "video:https://archive.org/download/the-thirteenth-chair_1929/the-thirteenth-chair_1929.mp4"
-        },
-        {
-          "type": "button",
-          "layout": "6,1,6,4",
-          "color": "msx-glass",
-          "icon": "movie",
-          "label": "CAPTAIN KIDD (1945)",
-          "text": "Aventura clasica en ingles; archivo de video directo.",
-          "action": "video:https://archive.org/download/captain-kidd-1945_202609/CaptainKidd_512kb.mp4"
-        }
-      ]
-    },
-    {
-      "items": [
-        {
-          "type": "button",
-          "layout": "0,1,6,4",
-          "color": "msx-glass",
-          "icon": "search",
-          "label": "ESTRENOS COMERCIALES",
-          "text": "Para peliculas recientes, consulta donde estan disponibles legalmente en Colombia. Este servicio abre una pagina externa.",
-          "action": "link:window:https://www.justwatch.com/co"
+          "label": "TEARS OF STEEL (2012)",
+          "text": "Cortometraje de ciencia ficcion de Blender Foundation. Video directo oficial; licencia Creative Commons Attribution 3.0.",
+          "action": "video:https://download.blender.org/demo/movies/ToS/tears_of_steel_720p.mov"
         },
         {
           "type": "button",
           "layout": "6,1,6,4",
           "color": "msx-glass",
           "icon": "play-circle",
-          "label": "CINE GRATIS RTVCPLAY",
-          "text": "Explora el catalogo gratuito de RTVCPlay; se abre una pagina externa.",
+          "label": "PLUTO TV GRATIS",
+          "text": "Catalogo gratuito con peliculas bajo demanda. Abre la plataforma; no es un enlace de video directo.",
+          "action": "link:window:https://pluto.tv/"
+        }
+      ]
+    },
+    {
+      "items": [
+        {
+          "type": "button",
+          "layout": "0,1,6,4",
+          "color": "msx-glass",
+          "icon": "play-circle",
+          "label": "PLEX: PELICULAS GRATIS",
+          "text": "Peliculas gratuitas con licencia; abre la plataforma externa, no un archivo de video directo.",
+          "action": "link:window:https://watch.plex.tv/es"
+        },
+        {
+          "type": "button",
+          "layout": "6,1,6,4",
+          "color": "msx-glass",
+          "icon": "play-circle",
+          "label": "RTVCPLAY: CINE GRATIS",
+          "text": "Catalogo gratuito colombiano; abre la plataforma externa, no un archivo de video directo.",
           "action": "link:window:https://rtvcplay.co/cine"
         }
       ]

@@ -1,44 +1,26 @@
 {
   "type": "pages",
-  "headline": "PELICULAS ESTRENO",
+  "headline": "CINE GRATIS Y ESTRENOS EN COLOMBIA",
   "pages": [
     {
       "items": [
         {
           "type": "button",
-          "layout": "0,0,6,2",
+          "layout": "0,1,6,4",
           "color": "msx-glass",
           "icon": "movie",
-          "label": "CONSULTAR ESTRENOS EN COLOMBIA",
-          "text": "Consulta estrenos y servicios legales disponibles en Colombia. Los estrenos comerciales suelen requerir la plataforma oficial; este boton abre una pagina externa.",
-          "action": "link:window:https://www.justwatch.com/co"
+          "label": "MEET JOHN DOE (1941)",
+          "text": "Clasico de archivo en ingles; este video ya fue probado por ti y se reprodujo dentro de MSX.",
+          "action": "video:https://archive.org/download/meet_john_doe/meet_john_doe_512kb.mp4"
         },
         {
           "type": "button",
-          "layout": "6,0,6,2",
+          "layout": "6,1,6,4",
           "color": "msx-glass",
-          "icon": "play-circle",
-          "label": "CINE GRATIS RTVCPLAY",
-          "text": "Explora peliculas disponibles gratis en la plataforma publica colombiana.",
-          "action": "link:window:https://rtvcplay.co/cine"
-        },
-        {
-          "type": "button",
-          "layout": "0,2,6,2",
-          "color": "msx-glass",
-          "icon": "live-tv",
-          "label": "NOVEDADES DE PELICULAS",
-          "text": "Revisa los titulos nuevos que aparecen en servicios de streaming y sus opciones de disponibilidad.",
-          "action": "link:window:https://www.justwatch.com/co/nuevas-peliculas"
-        },
-        {
-          "type": "button",
-          "layout": "6,2,6,2",
-          "color": "msx-glass",
-          "icon": "search",
-          "label": "BUSCAR UNA PELICULA",
-          "text": "Busca por titulo y comprueba si esta disponible en streaming, alquiler o compra.",
-          "action": "link:window:https://www.justwatch.com/co"
+          "icon": "movie",
+          "label": "POPEYE Y SINBAD (1936)",
+          "text": "Cortometraje animado clasico. Audio original; reproduce el archivo directamente si tu TV lo admite.",
+          "action": "video:https://archive.org/download/Popeye_meetsSinbadtheSailor/Popeye_meetsSinbadtheSailor_512kb.mp4"
         }
       ]
     },
@@ -49,18 +31,106 @@
           "layout": "0,1,6,4",
           "color": "msx-glass",
           "icon": "movie",
-          "label": "MEET JOHN DOE (1941)",
-          "text": "Clasico de archivo en ingles. Ya comprobaste que se reproduce directamente dentro de MSX.",
-          "action": "video:https://ia600504.us.archive.org/21/items/meet_john_doe/meet_john_doe_512kb.mp4"
+          "label": "CHARLIE CHAPLIN: THE VAGABOND",
+          "text": "Comedia muda clasica de 1916; no depende de dialogos hablados.",
+          "action": "video:https://archive.org/download/CC_1916_07_10_TheVagabond/CC_1916_07_10_TheVagabond.mp4"
+        },
+        {
+          "type": "button",
+          "layout": "6,1,6,4",
+          "color": "msx-glass",
+          "icon": "movie",
+          "label": "CHARLIE CHAPLIN: THE PAWNSHOP",
+          "text": "Comedia muda clasica de 1916, en archivo de video directo.",
+          "action": "video:https://archive.org/download/CC_1916_10_02_ThePawnshop/CC_1916_10_02_ThePawnshop_512kb.mp4"
+        }
+      ]
+    },
+    {
+      "items": [
+        {
+          "type": "button",
+          "layout": "0,1,6,4",
+          "color": "msx-glass",
+          "icon": "movie",
+          "label": "CHARLIE CHAPLIN: THE RINK",
+          "text": "Comedia muda clasica de 1916, en archivo de video directo.",
+          "action": "video:https://archive.org/download/CC_1916_12_04_TheRink/CC_1916_12_04_TheRink_512kb.mp4"
+        },
+        {
+          "type": "button",
+          "layout": "6,1,6,4",
+          "color": "msx-glass",
+          "icon": "movie",
+          "label": "CHARLIE CHAPLIN: THE FLOORWALKER",
+          "text": "Comedia muda clasica de 1916, en archivo de video directo.",
+          "action": "video:https://archive.org/download/CC_1916_05_15_TheFloorwalker/CC_1916_05_15_TheFloorwalker_512kb.mp4"
+        }
+      ]
+    },
+    {
+      "items": [
+        {
+          "type": "button",
+          "layout": "0,1,6,4",
+          "color": "msx-glass",
+          "icon": "movie",
+          "label": "THE LOST WORLD (1925)",
+          "text": "Aventura y fantasia clasica; audio e intertitulos segun la copia del archivo.",
+          "action": "video:https://archive.org/download/lost_world/lost_world_512kb.mp4"
+        },
+        {
+          "type": "button",
+          "layout": "6,1,6,4",
+          "color": "msx-glass",
+          "icon": "movie",
+          "label": "MR. ROBINSON CRUSOE (1932)",
+          "text": "Aventura clasica en ingles; el idioma depende de la copia disponible.",
+          "action": "video:https://archive.org/download/mr_robinson_crusoe/video_512kb.mp4"
+        }
+      ]
+    },
+    {
+      "items": [
+        {
+          "type": "button",
+          "layout": "0,1,6,4",
+          "color": "msx-glass",
+          "icon": "movie",
+          "label": "THE THIRTEENTH CHAIR (1929)",
+          "text": "Misterio clasico en ingles; archivo de video directo.",
+          "action": "video:https://archive.org/download/the-thirteenth-chair_1929/the-thirteenth-chair_1929.mp4"
+        },
+        {
+          "type": "button",
+          "layout": "6,1,6,4",
+          "color": "msx-glass",
+          "icon": "movie",
+          "label": "CAPTAIN KIDD (1945)",
+          "text": "Aventura clasica en ingles; archivo de video directo.",
+          "action": "video:https://archive.org/download/captain-kidd-1945_202609/CaptainKidd_512kb.mp4"
+        }
+      ]
+    },
+    {
+      "items": [
+        {
+          "type": "button",
+          "layout": "0,1,6,4",
+          "color": "msx-glass",
+          "icon": "search",
+          "label": "ESTRENOS COMERCIALES",
+          "text": "Para peliculas recientes, consulta donde estan disponibles legalmente en Colombia. Este servicio abre una pagina externa.",
+          "action": "link:window:https://www.justwatch.com/co"
         },
         {
           "type": "button",
           "layout": "6,1,6,4",
           "color": "msx-glass",
           "icon": "play-circle",
-          "label": "DUCK AND COVER (1951)",
-          "text": "Cortometraje educativo historico en ingles. Prueba de reproduccion directa; aun no verificado en tu televisor.",
-          "action": "video:https://archive.org/download/ArcherProductionsInc/DuckandC1951.mp4"
+          "label": "CINE GRATIS RTVCPLAY",
+          "text": "Explora el catalogo gratuito de RTVCPlay; se abre una pagina externa.",
+          "action": "link:window:https://rtvcplay.co/cine"
         }
       ]
     }

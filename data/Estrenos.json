@@ -1,0 +1,46 @@
+{
+  "type": "pages",
+  "headline": "PELICULAS ESTRENO",
+  "pages": [
+    {
+      "items": [
+        {
+          "type": "button",
+          "layout": "0,0,6,2",
+          "color": "msx-glass",
+          "icon": "movie",
+          "label": "ESTRENOS EN COLOMBIA",
+          "text": "Consulta peliculas nuevas y donde verlas legalmente en Colombia. La disponibilidad puede cambiar.",
+          "action": "link:window:https://www.justwatch.com/co"
+        },
+        {
+          "type": "button",
+          "layout": "6,0,6,2",
+          "color": "msx-glass",
+          "icon": "play-circle",
+          "label": "CINE GRATIS RTVCPLAY",
+          "text": "Explora peliculas disponibles gratis en la plataforma publica colombiana.",
+          "action": "link:window:https://rtvcplay.co/cine"
+        },
+        {
+          "type": "button",
+          "layout": "0,2,6,2",
+          "color": "msx-glass",
+          "icon": "live-tv",
+          "label": "NOVEDADES DE PELICULAS",
+          "text": "Revisa los titulos nuevos que aparecen en servicios de streaming y sus opciones de disponibilidad.",
+          "action": "link:window:https://www.justwatch.com/co/nuevas-peliculas"
+        },
+        {
+          "type": "button",
+          "layout": "6,2,6,2",
+          "color": "msx-glass",
+          "icon": "search",
+          "label": "BUSCAR UNA PELICULA",
+          "text": "Busca por titulo y comprueba si esta disponible en streaming, alquiler o compra.",
+          "action": "link:window:https://www.justwatch.com/co"
+        }
+      ]
+    }
+  ]
+}

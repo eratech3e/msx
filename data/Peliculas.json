@@ -39,6 +39,15 @@
           "label": "BUSCAR DONDE VER",
           "text": "Busca una pelicula y revisa que plataforma legal la ofrece en Colombia, gratis o con suscripcion.",
           "action": "link:https://www.justwatch.com/co"
+        },
+        {
+          "type": "button",
+          "layout": "0,6,6,3",
+          "color": "msx-glass",
+          "icon": "play-circle",
+          "label": "PRUEBA REPRODUCTOR MSX",
+          "text": "Video oficial de prueba de MSX. Sirve para comprobar si el televisor reproduce video dentro del portal sin abrir una pagina web externa.",
+          "action": "video:plugin:http://msx.benzac.de/plugins/html5.html?url=http://msx.benzac.de/media/video3.mp4"
         }
       ]
     }

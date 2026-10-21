@@ -116,21 +116,21 @@
       "items": [
         {
           "type": "button",
-          "layout": "0,1,6,4",
-          "color": "msx-glass",
-          "icon": "movie",
-          "label": "PRUEBA MP4: BIG BUCK BUNNY",
-          "text": "Prueba de reproduccion directa MP4 de pelicula abierta. Resolucion 640x360; pelicula de 2008, no es estreno reciente.",
-          "action": "video:http://download.blender.org/peach/bigbuckbunny_movies/BigBuckBunny_640x360.m4v"
-        },
-        {
-          "type": "button",
           "layout": "6,1,6,4",
           "color": "msx-glass",
           "icon": "movie",
           "label": "PRUEBA MP4: BIG BUCK BUNNY 320P",
           "text": "Segunda prueba de video directo en formato MP4, version de menor resolucion para compatibilidad.",
           "action": "video:https://buckbunny2.s3-sa-east-1.amazonaws.com/BigBuckBunny_320x180.mp4"
+        },
+        {
+          "type": "button",
+          "layout": "0,5,6,4",
+          "color": "msx-glass",
+          "icon": "movie",
+          "label": "PRUEBA SINTEL 1080P (MKV)",
+          "text": "Prueba de pelicula abierta de Blender Foundation en 1080p. Archivo MKV grande; compatibilidad pendiente de comprobar en Samsung.",
+          "action": "video:https://download.blender.org/demo/movies/Sintel.2010.1080p.mkv"
         }
       ]
     }

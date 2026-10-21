@@ -10,8 +10,10 @@
       "data": "https://msx.benzac.de/info/data/content_placeholder.json"
     },
     {
-      "label": "FORMULA 1",
-      "data": "https://msx.benzac.de/info/data/content_placeholder.json"
+      {
+  "label": "FORMULA 1",
+  "data": "https://eratech3e.github.io/msx/data/formula1.json"
+}
     },
     {
       "label": "OTROS DEPORTES",

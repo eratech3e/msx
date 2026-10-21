@@ -116,7 +116,7 @@
       "items": [
         {
           "type": "button",
-          "layout": "6,1,6,4",
+          "layout": "0,1,6,4",
           "color": "msx-glass",
           "icon": "movie",
           "label": "PRUEBA MP4: BIG BUCK BUNNY 320P",

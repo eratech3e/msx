@@ -11,7 +11,7 @@
           "icon": "movie",
           "label": "CINE CLASICO",
           "text": "Coleccion oficial de peliculas historicas de la Biblioteca del Congreso. La disponibilidad puede variar.",
-          "action": "link:https://www.loc.gov/collections/national-screening-room/"
+          "action": "link:window:https://www.loc.gov/collections/national-screening-room/"
         },
         {
           "type": "button",
@@ -20,7 +20,7 @@
           "icon": "video-library",
           "label": "CANAL OFICIAL DE CINE",
           "text": "Videos historicos y peliculas del canal oficial de la Biblioteca del Congreso.",
-          "action": "link:https://www.youtube.com/channel/UCbObxjfi3W9YKnDS0PgadNA"
+          "action": "link:window:https://www.youtube.com/channel/UCbObxjfi3W9YKnDS0PgadNA"
         },
         {
           "type": "button",
@@ -29,7 +29,7 @@
           "icon": "play-circle",
           "label": "CINE EN YOUTUBE",
           "text": "Canal oficial de la Biblioteca del Congreso. La disponibilidad puede variar.",
-          "action": "link:https://www.youtube.com/user/LibraryOfCongress"
+          "action": "link:window:https://www.youtube.com/user/LibraryOfCongress"
         },
         {
           "type": "button",
@@ -38,7 +38,7 @@
           "icon": "local-movies",
           "label": "CLASICOS DE DOMINIO PUBLICO",
           "text": "Catalogo de peliculas clasicas. Comprueba la licencia de cada version.",
-          "action": "link:https://archivewatch.org/"
+          "action": "link:window:https://archivewatch.org/"
         }
       ]
     }

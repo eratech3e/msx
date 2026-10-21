@@ -31,9 +31,9 @@
           "layout": "0,1,6,4",
           "color": "msx-glass",
           "icon": "play-circle",
-          "label": "DISNEY+ — FUTBOL INTERNACIONAL",
-          "text": "Consulta la programación de fútbol internacional disponible en Colombia. Puede requerir suscripción.",
-          "action": "link:window:https://www.disneyplus.com/es-co"
+          "label": "DAZN — FÚTBOL INTERNACIONAL",
+          "text": "Acceso directo a DAZN para consultar el fútbol y los contenidos disponibles en Colombia. Algunos contenidos pueden requerir suscripción.",
+          "action": "link:window:https://www.dazn.com/es-CO/home"
         },
         {
           "type": "button",

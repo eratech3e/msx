@@ -1,6 +1,6 @@
 {
   "type": "pages",
-  "headline": "PELICULAS GRATIS Y LEGALES",
+  "headline": "PELICULAS EN ESPANOL Y CON SUBTITULOS",
   "pages": [
     {
       "items": [
@@ -9,36 +9,36 @@
           "layout": "0,0,6,3",
           "color": "msx-glass",
           "icon": "movie",
-          "label": "CINE CLASICO",
-          "text": "Coleccion oficial de peliculas historicas de la Biblioteca del Congreso. La disponibilidad puede variar.",
-          "action": "link:window:https://www.loc.gov/collections/national-screening-room/"
+          "label": "RTVCPLAY GRATIS",
+          "text": "Peliculas colombianas y latinoamericanas en espanol. Servicio gratuito en Colombia.",
+          "action": "link:https://www.rtvcplay.co/"
         },
         {
           "type": "button",
           "layout": "6,0,6,3",
           "color": "msx-glass",
-          "icon": "video-library",
-          "label": "CANAL OFICIAL DE CINE",
-          "text": "Videos historicos y peliculas del canal oficial de la Biblioteca del Congreso.",
-          "action": "link:window:https://www.youtube.com/channel/UCbObxjfi3W9YKnDS0PgadNA"
+          "icon": "play-circle",
+          "label": "PLEX PELICULAS GRATIS",
+          "text": "Catalogo gratuito; busca la categoria En Espanol. Idiomas y subtitulos varian por titulo.",
+          "action": "link:https://watch.plex.tv/es"
         },
         {
           "type": "button",
           "layout": "0,3,6,3",
           "color": "msx-glass",
-          "icon": "play-circle",
-          "label": "CINE EN YOUTUBE",
-          "text": "Canal oficial de la Biblioteca del Congreso. La disponibilidad puede variar.",
-          "action": "link:window:https://www.youtube.com/user/LibraryOfCongress"
+          "icon": "live-tv",
+          "label": "PLUTO TV EN ESPANOL",
+          "text": "Peliculas y canales gratuitos en espanol; catalogo sujeto a disponibilidad regional.",
+          "action": "link:https://pluto.tv/us/category/83a4d999-8c64-47ec-94db-b90bb35bf1ec/"
         },
         {
           "type": "button",
           "layout": "6,3,6,3",
           "color": "msx-glass",
-          "icon": "local-movies",
-          "label": "CLASICOS DE DOMINIO PUBLICO",
-          "text": "Catalogo de peliculas clasicas. Comprueba la licencia de cada version.",
-          "action": "link:window:https://archivewatch.org/"
+          "icon": "search",
+          "label": "BUSCAR DONDE VER",
+          "text": "Busca una pelicula y revisa que plataforma legal la ofrece en Colombia, gratis o con suscripcion.",
+          "action": "link:https://www.justwatch.com/co"
         }
       ]
     }

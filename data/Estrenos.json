@@ -154,8 +154,8 @@
           "layout": "0,1,12,4",
           "color": "msx-glass",
           "icon": "movie",
-          "label": "PRUEBA PELICULA COMPLETA SINTEL 1080P",
-          "text": "Película abierta Sintel de Blender Foundation, archivo MKV 1080p alojado en el servidor oficial. Archivo grande; reproducción en Samsung pendiente de prueba.",
+          "label": "SINTEL — PELICULA COMPLETA 1080P",
+          "text": "Pelicula abierta de Blender Foundation. Archivo MKV 1080p con enlace directo; el usuario confirmo que reproduce en su Samsung.",
           "action": "video:https://download.blender.org/demo/movies/Sintel.2010.1080p.mkv"
         }
       ]

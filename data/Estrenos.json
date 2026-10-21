@@ -67,6 +67,50 @@
           "action": "link:window:https://www.justwatch.com/co"
         }
       ]
+    },
+    {
+      "items": [
+        {
+          "type": "button",
+          "layout": "0,1,6,4",
+          "color": "msx-glass",
+          "icon": "play-circle",
+          "label": "CINE.AR TV (ARGENTINA)",
+          "text": "Canal publico de cine argentino. Enlace HLS directo tomado de una lista publica de canales gratuitos; pendiente de prueba en el televisor.",
+          "action": "video:https://5fb24b460df87.streamlock.net/live-cont.ar/cinear/playlist.m3u8"
+        },
+        {
+          "type": "button",
+          "layout": "6,1,6,4",
+          "color": "msx-glass",
+          "icon": "movie",
+          "label": "FILMRISE: PELICULAS",
+          "text": "Canal gratuito de peliculas bajo demanda lineal. Enlace HLS directo; disponibilidad regional y compatibilidad pendientes de prueba en Samsung.",
+          "action": "video:https://dai2.xumo.com/xumocdn/p=roku/amagi_hls_data_xumo1212A-filmrisefreemovies/CDN/playlist.m3u8"
+        }
+      ]
+    },
+    {
+      "items": [
+        {
+          "type": "button",
+          "layout": "0,1,6,4",
+          "color": "msx-glass",
+          "icon": "movie",
+          "label": "FILMRISE: CIENCIA FICCION",
+          "text": "Canal gratuito de ciencia ficcion. Enlace HLS directo de una lista publica de canales; pendiente de prueba de reproduccion en MSX.",
+          "action": "video:https://dai2.xumo.com/xumocdn/p=roku/amagi_hls_data_xumo1212A-rokufilmrisesci-fi/CDN/master.m3u8"
+        },
+        {
+          "type": "button",
+          "layout": "6,1,6,4",
+          "color": "msx-glass",
+          "icon": "search",
+          "label": "FUENTE DE LISTA M3U",
+          "text": "Repositorio comunitario que publica canales gratuitos. Abre la fuente para consultar actualizaciones; este boton es informativo.",
+          "action": "link:window:https://github.com/Free-TV/IPTV/"
+        }
+      ]
     }
   ]
 }

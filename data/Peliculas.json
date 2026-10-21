@@ -10,8 +10,8 @@
           "color": "msx-glass",
           "icon": "movie",
           "label": "CINE CLASICO",
-          "text": "Peliculas y colecciones en Internet Archive. Revisa los derechos de cada titulo.",
-          "action": "link:https://archive.org/details/feature_films"
+          "text": "Coleccion oficial de peliculas historicas de la Biblioteca del Congreso. La disponibilidad puede variar.",
+          "action": "link:https://www.loc.gov/collections/national-screening-room/"
         },
         {
           "type": "button",
@@ -19,8 +19,8 @@
           "color": "msx-glass",
           "icon": "video-library",
           "label": "BIBLIOTECA DEL CONGRESO",
-          "text": "Coleccion oficial de peliculas historicas disponibles en linea.",
-          "action": "link:https://www.loc.gov/collections/national-screening-room/"
+          "text": "Catalogo oficial de peliculas y videos del Archivo Nacional de Estados Unidos.",
+          "action": "link:https://catalog.archives.gov/search-within/film"
         },
         {
           "type": "button",

@@ -132,8 +132,8 @@
           "layout": "0,1,6,4",
           "color": "msx-glass",
           "icon": "movie",
-          "label": "PRUEBA SINTEL MP4",
-          "text": "Prueba de archivo MP4 directo de una pelicula abierta de Blender. Produccion de 2010; enlace de prueba, no estreno reciente.",
+          "label": "PRUEBA MP4 DIRECTO A",
+          "text": "Video MP4 de prueba que el usuario confirmó que reproduce dentro de MSX. No es la película Sintel completa.",
           "action": "video:https://mainline.i3s.unice.fr/mooc/week2p1/video4.mp4"
         },
         {
@@ -141,9 +141,22 @@
           "layout": "6,1,6,4",
           "color": "msx-glass",
           "icon": "movie",
-          "label": "PRUEBA CAMINANDES MP4",
-          "text": "Prueba de archivo MP4 directo de un corto animado abierto. Produccion anterior; enlace de prueba, no estreno reciente.",
+          "label": "PRUEBA MP4 DIRECTO B",
+          "text": "Segundo video MP4 de prueba confirmado por el usuario. No es la película Caminandes completa.",
           "action": "video:https://mainline.i3s.unice.fr/mooc/week2p1/video2.mp4"
+        }
+      ]
+    },
+    {
+      "items": [
+        {
+          "type": "button",
+          "layout": "0,1,12,4",
+          "color": "msx-glass",
+          "icon": "movie",
+          "label": "PRUEBA PELICULA COMPLETA SINTEL 1080P",
+          "text": "Película abierta Sintel de Blender Foundation, archivo MKV 1080p alojado en el servidor oficial. Archivo grande; reproducción en Samsung pendiente de prueba.",
+          "action": "video:https://download.blender.org/demo/movies/Sintel.2010.1080p.mkv"
         }
       ]
     }

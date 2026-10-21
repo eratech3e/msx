@@ -1,8 +1,8 @@
 {
-“name”: “Mi Portal MSX”,
-“version”: “1.0.3”,
-“parameter”: “menu:https://eratech3e.github.io/msx/data/menu.json”,
-“launcher”: {
-“icon”: “pages”
-}
+  "name": "Mi Portal MSX",
+  "version": "1.0.3",
+  "parameter": "menu:https://eratech3e.github.io/msx/data/menu.json",
+  "launcher": {
+    "icon": "pages"
+  }
 }

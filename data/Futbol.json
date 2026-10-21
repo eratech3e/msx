@@ -31,8 +31,8 @@
           "layout": "0,1,6,4",
           "color": "msx-glass",
           "icon": "play-circle",
-          "label": "DISNEY+ — FUTBOL",
-          "text": "Revisa los partidos de ESPN disponibles en Colombia. Puede requerir suscripción.",
+          "label": "DISNEY+ — FUTBOL INTERNACIONAL",
+          "text": "Consulta la programación de fútbol internacional disponible en Colombia. Puede requerir suscripción.",
           "action": "link:window:https://www.disneyplus.com/es-co"
         },
         {
@@ -40,9 +40,9 @@
           "layout": "6,1,6,4",
           "color": "msx-glass",
           "icon": "live-tv",
-          "label": "GOL CARACOL / DITU",
-          "text": "Transmisiones oficiales de partidos seleccionados de la Selección Colombia y torneos internacionales, según programación y derechos disponibles.",
-          "action": "link:window:https://www.golcaracol.com/"
+          "label": "LIGA DE FUTBOL EUROPEO — DISNEY+",
+          "text": "Acceso a Disney+ para consultar la programación de ligas europeas disponible en Colombia. Puede requerir suscripción.",
+          "action": "link:window:https://www.disneyplus.com/es-co"
         }
       ]
     }

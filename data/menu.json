@@ -1,24 +1,4 @@
 {
-“headline”: “Mi Portal MSX”,
-“menu”: [
-{
-“icon”: “movie”,
-“label”: “Mi Portal”,
-“data”: {
-“type”: “pages”,
-“template”: {
-“type”: “separate”,
-“layout”: “0,0,2,4”,
-“icon”: “msx-white-soft:movie”,
-“color”: “msx-glass”
-},
-“items”: [
-{
-“title”: “Prueba de funcionamiento”,
-“action”: “video:https://msx.benzac.de/media/video1.mp4”
-}
-]
-}
-}
-]
+  "headline": "Mi Portal MSX",
+  "menu": []
 }

@@ -3,27 +3,27 @@
   "menu": [
     {
       "label": "TV EN VIVO",
-      "data": "https://msx.benzac.de/info/data/content_placeholder.json"
+      "data": "https://www.rtvcplay.co/"
     },
     {
       "label": "FUTBOL COLOMBIANO E INTERNACIONAL",
-      "data": "https://msx.benzac.de/info/data/content_placeholder.json"
+      "data": "https://www.rtvcplay.co/"
     },
     {
       "label": "FORMULA 1",
-      "data": "https://eratech3e.github.io/msx/data/formula1.json"
+      "data": "https://www.formula1.com/"
     },
     {
       "label": "OTROS DEPORTES",
-      "data": "https://msx.benzac.de/info/data/content_placeholder.json"
+      "data": "https://www.rtvcplay.co/"
     },
     {
       "label": "PELICULAS",
-      "data": "https://msx.benzac.de/info/data/content_placeholder.json"
+      "data": "https://www.rtvcplay.co/"
     },
     {
       "label": "SERIES",
-      "data": "https://msx.benzac.de/info/data/content_placeholder.json"
+      "data": "https://www.rtvcplay.co/"
     }
   ]
 }

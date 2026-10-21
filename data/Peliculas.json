@@ -18,9 +18,9 @@
           "layout": "6,0,6,3",
           "color": "msx-glass",
           "icon": "video-library",
-          "label": "PELICULAS CLASICAS GRATIS",
-          "text": "Catalogo de peliculas clasicas de dominio publico para ver en linea.",
-          "action": "link:https://www.silverscrin.com/"
+          "label": "CINE PUBLICO EN YOUTUBE",
+          "text": "Videos y peliculas del canal oficial de la Biblioteca del Congreso en YouTube.",
+          "action": "link:https://www.youtube.com/@libraryofcongress"
         },
         {
           "type": "button",

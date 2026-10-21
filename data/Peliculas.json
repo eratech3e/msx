@@ -1,0 +1,16 @@
+{
+  "type": "pages",
+  "headline": "PELICULAS",
+  "pages": [
+    {
+      "items": [
+        {
+          "layout": "0,0,12,6",
+          "color": "msx-glass",
+          "headline": "PELICULAS",
+          "text": "Seccion de peliculas preparada. Aqui agregaremos opciones de peliculas disponibles legalmente."
+        }
+      ]
+    }
+  ]
+}

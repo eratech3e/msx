@@ -85,8 +85,8 @@
           "color": "msx-glass",
           "icon": "movie",
           "label": "FILMRISE: PELICULAS",
-          "text": "Canal gratuito de peliculas bajo demanda lineal. Enlace HLS directo; disponibilidad regional y compatibilidad pendientes de prueba en Samsung.",
-          "action": "video:https://dai2.xumo.com/xumocdn/p=roku/amagi_hls_data_xumo1212A-filmrisefreemovies/CDN/playlist.m3u8"
+          "text": "Canal gratuito de peliculas. Se cambio la fuente por otra variante publica y se usa el modo automatico de reproduccion de MSX; pendiente de probar en el televisor.",
+          "action": "video:auto:https://dai2.xumo.com/amagi_hls_data_xumo1212A-viziofilmrisefreemovies/CDN/playlist.m3u8"
         }
       ]
     },

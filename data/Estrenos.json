@@ -111,28 +111,6 @@
           "action": "link:window:https://github.com/Free-TV/IPTV/"
         }
       ]
-    },
-    {
-      "items": [
-        {
-          "type": "button",
-          "layout": "0,1,6,4",
-          "color": "msx-glass",
-          "icon": "movie",
-          "label": "PRUEBA SINGULARITY (2026)",
-          "text": "Prueba de acceso a la pelicula abierta de Blender Studio. Este enlace abre la pagina oficial; no es un MP4 directo confirmado.",
-          "action": "link:window:https://studio.blender.org/projects/singularity/"
-        },
-        {
-          "type": "button",
-          "layout": "6,1,6,4",
-          "color": "msx-glass",
-          "icon": "movie",
-          "label": "PRUEBA WING IT! (2023)",
-          "text": "Prueba de acceso a la pelicula abierta de Blender Studio. Este enlace abre la pagina oficial; no es un MP4 directo confirmado.",
-          "action": "link:window:https://studio.blender.org/films/wing-it/"
-        }
-      ]
     }
   ]
 }

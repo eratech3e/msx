@@ -167,8 +167,8 @@
           "layout": "0,1,12,4",
           "color": "msx-glass",
           "icon": "movie",
-          "label": "PRUEBA PELICULA COMPLETA: TEARS OF STEEL 720P",
-          "text": "Película abierta de Blender Foundation, versión MOV 720p con descarga directa oficial. Producción de 2012; reproducción en el televisor pendiente de comprobar.",
+          "label": "TEARS OF STEEL — PELICULA COMPLETA 720P",
+          "text": "Pelicula abierta de Blender Foundation, version MOV 720p con enlace directo. El usuario confirmo que reproduce en su Samsung.",
           "action": "video:https://download.blender.org/demo/movies/ToS/tears_of_steel_720p.mov"
         }
       ]

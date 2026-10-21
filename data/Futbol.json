@@ -1,0 +1,77 @@
+{
+  "type": "pages",
+  "headline": "FUTBOL COLOMBIANO E INTERNACIONAL",
+  "pages": [
+    {
+      "items": [
+        {
+          "type": "button",
+          "layout": "0,1,6,4",
+          "color": "msx-glass",
+          "icon": "sports-soccer",
+          "label": "LIGA BETPLAY — WIN PLAY",
+          "text": "Transmisión oficial del fútbol profesional colombiano. Puede requerir suscripción; no es una señal directa integrada en MSX.",
+          "action": "link:window:https://www.winsportsmas.com/"
+        },
+        {
+          "type": "button",
+          "layout": "6,1,6,4",
+          "color": "msx-glass",
+          "icon": "sports-soccer",
+          "label": "LALIGA Y FÚTBOL EUROPEO — DISNEY+",
+          "text": "ESPN y Disney+ Premium ofrecen partidos de LaLiga y varias ligas internacionales en Colombia, según derechos y programación.",
+          "action": "link:window:https://www.disneyplus.com/es-co"
+        },
+        {
+          "type": "button",
+          "layout": "0,5,6,4",
+          "color": "msx-glass",
+          "icon": "live-tv",
+          "label": "DSPORTS / DGO",
+          "text": "Partidos seleccionados de LaLiga, torneos internacionales y otros eventos deportivos; disponibilidad según plan.",
+          "action": "link:window:https://www.directvgo.com/co/home"
+        },
+        {
+          "type": "button",
+          "layout": "6,5,6,4",
+          "color": "msx-glass",
+          "icon": "live-tv",
+          "label": "WIN SPORTS — PROGRAMACIÓN",
+          "text": "Consulta partidos del fútbol colombiano y programación oficial. Algunos encuentros requieren canal premium.",
+          "action": "link:window:https://www.winsportsmas.com/"
+        }
+      ]
+    },
+    {
+      "items": [
+        {
+          "type": "button",
+          "layout": "0,1,6,4",
+          "color": "msx-glass",
+          "icon": "public",
+          "label": "LALIGA — DÓNDE VER",
+          "text": "Consulta operadores autorizados para ver la liga española en tu país.",
+          "action": "link:window:https://www.laliga.com/donde-ver-laliga-easports"
+        },
+        {
+          "type": "button",
+          "layout": "6,1,6,4",
+          "color": "msx-glass",
+          "icon": "live-tv",
+          "label": "FIFA+",
+          "text": "Plataforma oficial con partidos en directo seleccionados, repeticiones y fútbol de distintas competiciones. La oferta cambia por país.",
+          "action": "link:window:https://www.plus.fifa.com/"
+        },
+        {
+          "type": "button",
+          "layout": "0,5,12,4",
+          "color": "msx-glass",
+          "icon": "info",
+          "label": "IMPORTANTE: REPRODUCCIÓN",
+          "text": "Los enlaces oficiales pueden abrir una página o app y exigir cuenta o suscripción. No hay un enlace público único que reproduzca legalmente todos los partidos directamente dentro de MSX.",
+          "action": "link:window:https://www.laliga.com/donde-ver-laliga-easports"
+        }
+      ]
+    }
+  ]
+}

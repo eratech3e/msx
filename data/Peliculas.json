@@ -18,9 +18,9 @@
           "layout": "6,0,6,3",
           "color": "msx-glass",
           "icon": "video-library",
-          "label": "BIBLIOTECA DEL CONGRESO",
-          "text": "Catalogo oficial de peliculas y videos del Archivo Nacional de Estados Unidos.",
-          "action": "link:https://catalog.archives.gov/search-within/film"
+          "label": "PELICULAS CLASICAS GRATIS",
+          "text": "Catalogo de peliculas clasicas de dominio publico para ver en linea.",
+          "action": "link:https://www.silverscrin.com/"
         },
         {
           "type": "button",

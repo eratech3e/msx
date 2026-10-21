@@ -40,9 +40,9 @@
           "layout": "6,1,6,4",
           "color": "msx-glass",
           "icon": "live-tv",
-          "label": "LIGA DE FUTBOL EUROPEO — DISNEY+",
-          "text": "Acceso a Disney+ para consultar la programación de ligas europeas disponible en Colombia. Puede requerir suscripción.",
-          "action": "link:window:https://www.disneyplus.com/es-co"
+          "label": "CONSULTAR DÓNDE VER LALIGA",
+          "text": "Consulta las opciones oficiales para ver LaLiga. La disponibilidad depende del país y del proveedor.",
+          "action": "link:window:https://www.laliga.com/donde-ver-laliga-easports"
         }
       ]
     }

@@ -172,19 +172,6 @@
           "action": "video:https://download.blender.org/demo/movies/ToS/tears_of_steel_720p.mov"
         }
       ]
-    },
-    {
-      "items": [
-        {
-          "type": "button",
-          "layout": "0,1,12,4",
-          "color": "msx-glass",
-          "icon": "movie",
-          "label": "PRUEBA CAMINANDES: GRAN DILLAMA 1080P",
-          "text": "Cortometraje animado abierto, casi sin dialogos; no requiere entender otro idioma. WebM 1080p directo desde Wikimedia Commons; compatibilidad MSX pendiente de probar.",
-          "action": "video:https://upload.wikimedia.org/wikipedia/commons/7/7c/Caminandes_-_Gran_Dillama_-_Blender_Foundation%27s_new_Open_Movie.webm"
-        }
-      ]
     }
   ]
 }

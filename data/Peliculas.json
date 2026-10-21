@@ -1,14 +1,44 @@
 {
   "type": "pages",
-  "headline": "PELICULAS",
+  "headline": "PELICULAS GRATIS Y LEGALES",
   "pages": [
     {
       "items": [
         {
-          "layout": "0,0,12,6",
+          "type": "button",
+          "layout": "0,0,6,3",
           "color": "msx-glass",
-          "headline": "PELICULAS",
-          "text": "Seccion de peliculas preparada. Aqui agregaremos opciones de peliculas disponibles legalmente."
+          "icon": "movie",
+          "label": "CINE CLASICO",
+          "text": "Peliculas y colecciones en Internet Archive. Revisa los derechos de cada titulo.",
+          "action": "link:https://archive.org/details/feature_films"
+        },
+        {
+          "type": "button",
+          "layout": "6,0,6,3",
+          "color": "msx-glass",
+          "icon": "video-library",
+          "label": "BIBLIOTECA DEL CONGRESO",
+          "text": "Coleccion oficial de peliculas historicas disponibles en linea.",
+          "action": "link:https://www.loc.gov/collections/national-screening-room/"
+        },
+        {
+          "type": "button",
+          "layout": "0,3,6,3",
+          "color": "msx-glass",
+          "icon": "play-circle",
+          "label": "CINE EN YOUTUBE",
+          "text": "Canal oficial de la Biblioteca del Congreso. La disponibilidad puede variar.",
+          "action": "link:https://www.youtube.com/user/LibraryOfCongress"
+        },
+        {
+          "type": "button",
+          "layout": "6,3,6,3",
+          "color": "msx-glass",
+          "icon": "local-movies",
+          "label": "CLASICOS DE DOMINIO PUBLICO",
+          "text": "Catalogo de peliculas clasicas. Comprueba la licencia de cada version.",
+          "action": "link:https://archivewatch.org/"
         }
       ]
     }

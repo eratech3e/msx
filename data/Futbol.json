@@ -40,9 +40,9 @@
           "layout": "6,1,6,4",
           "color": "msx-glass",
           "icon": "live-tv",
-          "label": "FIFA+ — PARTIDOS SELECCIONADOS",
-          "text": "Partidos en directo seleccionados y repeticiones; disponibilidad variable por país.",
-          "action": "link:window:https://www.plus.fifa.com/"
+          "label": "GOL CARACOL / DITU",
+          "text": "Transmisiones oficiales de partidos seleccionados de la Selección Colombia y torneos internacionales, según programación y derechos disponibles.",
+          "action": "link:window:https://www.golcaracol.com/"
         }
       ]
     }

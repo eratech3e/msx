@@ -50,6 +50,28 @@
           "action": "video:plugin:http://msx.benzac.de/plugins/html5.html?url=http://msx.benzac.de/media/video3.mp4"
         }
       ]
+    },
+    {
+      "items": [
+        {
+          "type": "button",
+          "layout": "0,1,6,4",
+          "color": "msx-glass",
+          "icon": "movie",
+          "label": "CLASICOS GRATIS",
+          "text": "Catalogo de cine clasico de dominio publico. El idioma y los subtitulos dependen de cada pelicula.",
+          "action": "link:window:https://cinearchive.es/cinema"
+        },
+        {
+          "type": "button",
+          "layout": "6,1,6,4",
+          "color": "msx-glass",
+          "icon": "video-library",
+          "label": "CINE CLASICO INTERNACIONAL",
+          "text": "Otra coleccion de cine clasico gratuito. Revisa la ficha de cada titulo para confirmar idioma y subtitulos.",
+          "action": "link:window:https://watchfreemovies.app/"
+        }
+      ]
     }
   ]
 }

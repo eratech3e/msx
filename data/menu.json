@@ -2,8 +2,17 @@
   "headline": "Mi Portal MSX",
   "menu": [
     {
-      "label": "Portal funcionando",
-      "data": "https://msx.benzac.de/info/data/content_placeholder.json"
+      "label": "Información",
+      "icon": "info",
+      "data": {
+        "type": "pages",
+        "items": [
+          {
+            "title": "Prueba de funcionamiento",
+            "action": "https://msx.benzac.de/info/"
+          }
+        ]
+      }
     }
   ]
 }

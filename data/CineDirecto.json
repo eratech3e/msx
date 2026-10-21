@@ -1,0 +1,28 @@
+{
+  "type": "pages",
+  "headline": "CINE GRATUITO DE REPRODUCCION DIRECTA",
+  "pages": [
+    {
+      "items": [
+        {
+          "type": "button",
+          "layout": "0,1,6,4",
+          "color": "msx-glass",
+          "icon": "movie",
+          "label": "MEET JOHN DOE (1941)",
+          "text": "Clasico de archivo. Audio original en ingles. Esta pelicula ya fue probada por ti y se reprodujo dentro de MSX.",
+          "action": "video:https://ia600504.us.archive.org/21/items/meet_john_doe/meet_john_doe_512kb.mp4"
+        },
+        {
+          "type": "button",
+          "layout": "6,1,6,4",
+          "color": "msx-glass",
+          "icon": "play-circle",
+          "label": "DUCK AND COVER (1951)",
+          "text": "Cortometraje educativo historico en ingles. Prueba si este archivo tambien se reproduce directamente en tu televisor.",
+          "action": "video:https://archive.org/download/ArcherProductionsInc/DuckandC1951.mp4"
+        }
+      ]
+    }
+  ]
+}

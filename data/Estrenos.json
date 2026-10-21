@@ -159,6 +159,19 @@
           "action": "video:https://download.blender.org/demo/movies/Sintel.2010.1080p.mkv"
         }
       ]
+    },
+    {
+      "items": [
+        {
+          "type": "button",
+          "layout": "0,1,12,4",
+          "color": "msx-glass",
+          "icon": "movie",
+          "label": "PRUEBA PELICULA COMPLETA: TEARS OF STEEL 720P",
+          "text": "Película abierta de Blender Foundation, versión MOV 720p con descarga directa oficial. Producción de 2012; reproducción en el televisor pendiente de comprobar.",
+          "action": "video:https://download.blender.org/demo/movies/ToS/tears_of_steel_720p.mov"
+        }
+      ]
     }
   ]
 }

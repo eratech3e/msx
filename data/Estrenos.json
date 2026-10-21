@@ -125,7 +125,7 @@
         },
         {
           "type": "button",
-          "layout": "0,5,6,4",
+          "layout": "6,1,6,4",
           "color": "msx-glass",
           "icon": "movie",
           "label": "PRUEBA SINTEL 1080P (MKV)",

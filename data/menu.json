@@ -1,19 +1,9 @@
 {
-“headline”: “Mi Portal MSX”,
-“menu”: [
-{
-“label”: “Bienvenido”,
-“icon”: “home”,
-“data”: {
-“type”: “pages”,
-“items”: [
-{
-“title”: “Portal funcionando”,
-“description”: “Mi portal se ha configurado correctamente”,
-“action”: “https://msx.benzac.de/info/”
-}
-]
-}
-}
-]
+  "headline": "Mi Portal MSX",
+  "menu": [
+    {
+      "label": "Portal funcionando",
+      "data": "https://msx.benzac.de/info/data/content_placeholder.json"
+    }
+  ]
 }

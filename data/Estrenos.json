@@ -111,6 +111,19 @@
           "action": "link:window:https://github.com/Free-TV/IPTV/"
         }
       ]
+    },
+    {
+      "items": [
+        {
+          "type": "button",
+          "layout": "3,1,6,4",
+          "color": "msx-glass",
+          "icon": "play-circle",
+          "label": "PRUEBA VIDEO MP4 DIRECTO",
+          "text": "Prueba tecnica con una pelicula clasica de dominio publico. Sirve para comprobar si el reproductor de MSX acepta un archivo MP4 directo; no es un estreno.",
+          "action": "video:https://ia800503.us.archive.org/29/items/meet_john_doe/meet_john_doe_512kb.mp4"
+        }
+      ]
     }
   ]
 }

@@ -10,8 +10,8 @@
           "color": "msx-glass",
           "icon": "movie",
           "label": "RTVCPLAY GRATIS",
-          "text": "Peliculas colombianas y latinoamericanas en espanol. Servicio gratuito en Colombia.",
-          "action": "link:https://www.rtvcplay.co/"
+          "text": "Prueba esta plataforma colombiana gratuita. Se abre en ventana externa para comprobar si el control permite navegar.",
+          "action": "link:window:https://rtvcplay.co/cine"
         },
         {
           "type": "button",

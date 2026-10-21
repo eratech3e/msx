@@ -3,7 +3,7 @@
 “menu”: [
 {
 “icon”: “movie”,
-“label”: “Mi portal”,
+“label”: “Mi Portal”,
 “data”: {
 “type”: “pages”,
 “template”: {
@@ -15,7 +15,7 @@
 “items”: [
 {
 “title”: “Prueba de funcionamiento”,
-“action”: “link:https://msx.benzac.de/info/”
+“action”: “video:https://msx.benzac.de/media/video1.mp4”
 }
 ]
 }

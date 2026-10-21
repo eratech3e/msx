@@ -1,48 +1,29 @@
 {
-“headline”: “MI PORTAL MSX”,
-“style”: “flat-separator”,
-“menu”: [
-{
-“type”: “separator”,
-“label”: “TELEVISIÓN”
-},
-{
-“icon”: “live-tv”,
-“label”: “TV en vivo”,
-“data”: “https://msx.benzac.de/info/data/content_placeholder.json”
-},
-{
-“type”: “separator”,
-“label”: “DEPORTES”
-},
-{
-“icon”: “sports-soccer”,
-“label”: “Fútbol colombiano e internacional”,
-“data”: “https://msx.benzac.de/info/data/content_placeholder.json”
-},
-{
-“icon”: “sports-motorsports”,
-“label”: “Fórmula 1”,
-“data”: “https://msx.benzac.de/info/data/content_placeholder.json”
-},
-{
-“icon”: “emoji-events”,
-“label”: “Otros deportes”,
-“data”: “https://msx.benzac.de/info/data/content_placeholder.json”
-},
-{
-“type”: “separator”,
-“label”: “CINE Y SERIES”
-},
-{
-“icon”: “movie”,
-“label”: “Películas”,
-“data”: “https://msx.benzac.de/info/data/content_placeholder.json”
-},
-{
-“icon”: “live-tv”,
-“label”: “Series”,
-“data”: “https://msx.benzac.de/info/data/content_placeholder.json”
-}
-]
+  "headline": "MI PORTAL MSX",
+  "menu": [
+    {
+      "label": "TV EN VIVO",
+      "data": "https://msx.benzac.de/info/data/content_placeholder.json"
+    },
+    {
+      "label": "FUTBOL",
+      "data": "https://msx.benzac.de/info/data/content_placeholder.json"
+    },
+    {
+      "label": "FORMULA 1",
+      "data": "https://msx.benzac.de/info/data/content_placeholder.json"
+    },
+    {
+      "label": "OTROS DEPORTES",
+      "data": "https://msx.benzac.de/info/data/content_placeholder.json"
+    },
+    {
+      "label": "PELICULAS",
+      "data": "https://msx.benzac.de/info/data/content_placeholder.json"
+    },
+    {
+      "label": "SERIES",
+      "data": "https://msx.benzac.de/info/data/content_placeholder.json"
+    }
+  ]
 }

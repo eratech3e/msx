@@ -124,6 +124,28 @@
           "action": "video:https://buckbunny2.s3-sa-east-1.amazonaws.com/BigBuckBunny_320x180.mp4"
         }
       ]
+    },
+    {
+      "items": [
+        {
+          "type": "button",
+          "layout": "0,1,6,4",
+          "color": "msx-glass",
+          "icon": "movie",
+          "label": "PRUEBA SINTEL MP4",
+          "text": "Prueba de archivo MP4 directo de una pelicula abierta de Blender. Produccion de 2010; enlace de prueba, no estreno reciente.",
+          "action": "video:https://mainline.i3s.unice.fr/mooc/week2p1/video4.mp4"
+        },
+        {
+          "type": "button",
+          "layout": "6,1,6,4",
+          "color": "msx-glass",
+          "icon": "movie",
+          "label": "PRUEBA CAMINANDES MP4",
+          "text": "Prueba de archivo MP4 directo de un corto animado abierto. Produccion anterior; enlace de prueba, no estreno reciente.",
+          "action": "video:https://mainline.i3s.unice.fr/mooc/week2p1/video2.mp4"
+        }
+      ]
     }
   ]
 }

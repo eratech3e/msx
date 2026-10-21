@@ -39,15 +39,28 @@
           "label": "BUSCAR UNA PELICULA",
           "text": "Busca por titulo y comprueba si esta disponible en streaming, alquiler o compra.",
           "action": "link:window:https://www.justwatch.com/co"
+        }
+      ]
+    },
+    {
+      "items": [
+        {
+          "type": "button",
+          "layout": "0,1,6,4",
+          "color": "msx-glass",
+          "icon": "movie",
+          "label": "MEET JOHN DOE (1941)",
+          "text": "Clasico de archivo en ingles. Ya comprobaste que se reproduce directamente dentro de MSX.",
+          "action": "video:https://ia600504.us.archive.org/21/items/meet_john_doe/meet_john_doe_512kb.mp4"
         },
         {
           "type": "button",
-          "layout": "3,4,6,2",
+          "layout": "6,1,6,4",
           "color": "msx-glass",
           "icon": "play-circle",
-          "label": "PELICULAS DIRECTAS EN MSX",
-          "text": "Abre un catalogo pequeno de videos de archivo para reproducir directamente dentro de MSX. No son estrenos comerciales actuales.",
-          "action": "menu:https://eratech3e.github.io/msx/data/CineDirecto.json"
+          "label": "DUCK AND COVER (1951)",
+          "text": "Cortometraje educativo historico en ingles. Prueba de reproduccion directa; aun no verificado en tu televisor.",
+          "action": "video:https://archive.org/download/ArcherProductionsInc/DuckandC1951.mp4"
         }
       ]
     }

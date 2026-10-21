@@ -18,9 +18,9 @@
           "layout": "6,0,6,3",
           "color": "msx-glass",
           "icon": "video-library",
-          "label": "CINE PUBLICO EN YOUTUBE",
-          "text": "Videos y peliculas del canal oficial de la Biblioteca del Congreso en YouTube.",
-          "action": "link:https://www.youtube.com/@libraryofcongress"
+          "label": "CANAL OFICIAL DE CINE",
+          "text": "Videos historicos y peliculas del canal oficial de la Biblioteca del Congreso.",
+          "action": "link:https://www.youtube.com/channel/UCbObxjfi3W9YKnDS0PgadNA"
         },
         {
           "type": "button",

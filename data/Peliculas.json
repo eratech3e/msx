@@ -6,7 +6,7 @@
       "items": [
         {
           "type": "button",
-          "layout": "0,0,6,3",
+          "layout": "0,0,6,2",
           "color": "msx-glass",
           "icon": "movie",
           "label": "RTVCPLAY GRATIS",
@@ -15,7 +15,7 @@
         },
         {
           "type": "button",
-          "layout": "6,0,6,3",
+          "layout": "6,0,6,2",
           "color": "msx-glass",
           "icon": "play-circle",
           "label": "PLEX PELICULAS GRATIS",
@@ -24,7 +24,7 @@
         },
         {
           "type": "button",
-          "layout": "0,3,6,3",
+          "layout": "0,2,6,2",
           "color": "msx-glass",
           "icon": "live-tv",
           "label": "PLUTO TV EN ESPANOL",
@@ -33,7 +33,7 @@
         },
         {
           "type": "button",
-          "layout": "6,3,6,3",
+          "layout": "6,2,6,2",
           "color": "msx-glass",
           "icon": "search",
           "label": "BUSCAR DONDE VER",
@@ -42,7 +42,7 @@
         },
         {
           "type": "button",
-          "layout": "0,6,6,3",
+          "layout": "3,4,6,2",
           "color": "msx-glass",
           "icon": "play-circle",
           "label": "PRUEBA REPRODUCTOR MSX",
